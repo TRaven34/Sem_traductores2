@@ -16,3 +16,5 @@ El orden de los trabajos es:
 6: Analizador semántico.
 
 Cada tarea es un paso para el avance del proyecto final
+
+Nota: Los trabajos apenas se estan subiendo con la fecha del 21-Octubre-2022.
