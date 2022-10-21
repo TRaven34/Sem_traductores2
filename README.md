@@ -18,3 +18,4 @@ El orden de los trabajos es:
 Cada tarea es un paso para el avance del proyecto final
 
 Nota: Los trabajos apenas se estan subiendo con la fecha del 21-Octubre-2022.
+Aprovechando que el semestre pasado trabaje con C#, voy a implementar lo que aprendi en Visual Studio para este proyecto.
