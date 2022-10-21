@@ -1,0 +1,150 @@
+#include <iostream>
+#include <cstring>
+#include <stdio.h>
+#include <string.h>
+#include <ctype.h>
+
+using namespace std;
+
+int main(){
+    cout << "ANALIZADOR LEXICO\n\n";
+    cout << "Texto a analizar: " << endl;
+    cout << "hola 5 * / 5.5 + # - < <= > >= || && ! == != ; , ( ) { } = if while return else $ como estas float int \n" << endl; //Cadena a revisar
+    string cad1 = "hola 5 * / 5.5 + # - < <= > >= || && ! == != ; , ( ) { } = if while return else $ como estas float int "; //Cadena a revisar
+    string cad2 = ""; //Cadena auxiliar
+    int largo = cad1.length(); //Define el largo de la cadena
+    for (int i = 0; i<largo; i++){
+
+        if (cad1[i] == ' '){
+
+            if ( cad2 >= "1" || cad2 == "2" || cad2 == "3" || cad2 == "4" || cad2 == "5" || cad2 == "6" || cad2 == "7" || cad2 == "8" || cad2 == "9"){
+                cout << cad2 << " Es un numero entero" << endl;
+                cad2 = ""; //Vaciar cadena
+            }
+
+            if ( cad2 == "5"  ){
+                    cout << cad2 << " Es un numero real" << endl;
+                    cad2 = ""; //Vaciar cadena
+            }
+
+            if ( cad2 == "+" || cad2 == "-"){
+                    cout << cad2 << " OpSuma Tipo 5" << endl;
+                    cad2 = ""; //Vaciar cadena
+            }
+
+            if ( cad2 == "*" || cad2 == "/"){
+                cout << cad2 << " Operador Mul Tipo 6" << endl;
+                cad2 = ""; //Vaciar cadena
+            }
+
+            if ( cad2 == "<" || cad2 == "<=" || cad2 == ">" || cad2 == ">="){
+                cout << cad2 << " OpRelac Tipo 7" << endl;
+                cad2 = ""; //Vaciar cadena
+            }
+
+            if ( cad2 == "||"){
+                cout << cad2 << " OpOr Tipo 8" << endl;
+                cad2 = ""; //Vaciar cadena
+            }
+
+            if ( cad2 == "&&"){
+                cout << cad2 << " OpAnd Tipo 9" << endl;
+                cad2 = ""; //Vaciar cadena
+            }
+
+            if ( cad2 == "!"){
+                cout << cad2 << " OpNot Tipo 10" << endl;
+                cad2 = ""; //Vaciar cadena
+            }
+
+            if ( cad2 == "==" || cad2 == "!="){
+                cout << cad2 << " OpIgualdad Tipo 11" << endl;
+                cad2 = ""; //Vaciar cadena
+            }
+
+            if ( cad2 == ";"){
+                cout << cad2 << " Punto y coma Tipo 12" << endl;
+                cad2 = ""; //Vaciar cadena
+            }
+
+            if ( cad2 == ","){
+                cout << cad2 << " Coma Tipo 13" << endl;
+                cad2 = ""; //Vaciar cadena
+            }
+
+            if ( cad2 == "("){
+                cout << cad2 << " Parentesis abierta Tipo 14" << endl;
+                cad2 = ""; //Vaciar cadena
+            }
+
+            if ( cad2 == ")"){
+                cout << cad2 << " Parentesis cerrada Tipo 15" << endl;
+                cad2 = ""; //Vaciar cadena
+            }
+
+            if ( cad2 == "{"){
+                cout << cad2 << " Corchete abierto Tipo 16" << endl;
+                cad2 = ""; //Vaciar cadena
+            }
+            if ( cad2 == "}"){
+                cout << cad2 << " Corchete cerrado Tipo 17" << endl;
+                cad2 = ""; //Vaciar cadena
+            }
+
+            if ( cad2 == "="){
+                cout << cad2 << " Igualdad Tipo 18" << endl;
+                cad2 = ""; //Vaciar cadena
+            }
+            if ( cad2 == "if"){
+                cout << cad2 << " Palabra reservada Tipo 19" << endl;
+                cad2 = ""; //Vaciar cadena
+            }
+
+            if ( cad2 == "while"){
+                cout << cad2 << " Palabra reservada Tipo 20" << endl;
+                cad2 = ""; //Vaciar cadena
+            }
+
+            if ( cad2 == "return"){
+                cout << cad2 << " Palabra reservada Tipo 21" << endl;
+                cad2 = ""; //Vaciar cadena
+            }
+
+            if ( cad2 == "else"){
+                cout << cad2 << " Palabra reservada Tipo 22" << endl;
+                cad2 = ""; //Vaciar cadena
+            }
+
+            if ( cad2 == "int"){
+                cout << cad2 << " Palabra reservada" << endl;
+                cad2 = ""; //Vaciar cadena
+            }
+
+            if ( cad2 == "float"){
+                cout << cad2 << " Palabra reservada" << endl;
+                cad2 = ""; //Vaciar cadena
+            }
+
+            if (cad2 == "$"){
+                cout << cad2 << " Simbolo de pesos Tipo 23" << endl;
+                cad2 = ""; //Vaciar cadena
+            }
+
+            if ( cad2 == "#"){
+                cout << cad2 << " ERROR\n" << endl;
+                cad2 = ""; //Vaciar cadena
+            }
+
+
+            else {
+                cout << cad2 << endl; //Impresión en pantalla de la palabra
+                cad2 = ""; //Vaciar cadena
+            }
+        }
+
+        else
+            cad2 += cad1[i];//Quitar espacios
+    }
+    cout << cad2 << "\n" << endl; //Imprimir última cadena de la oración (si no hay espacio final)
+    return 0;
+}

@@ -1,0 +1,25 @@
+#include <iostream>
+#include <sstream>
+#include <iterator>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
+bool isNumber(const string& str){
+    return str.find_first_not_of("0123456789") == string::npos;
+}
+
+int main()
+{
+    char palabra[100];
+    cout << "ANALIZADOR LEXICO" <<endl; //Imprime el texto
+    cout << "Ingresa el texto a analizar: " << endl; //Imprime el texto
+    do{
+        cin >> palabra; //Ingreso de cadena
+        if (isdigit(*palabra)) {cout<< "\n" << palabra << " Es un numero" << endl;}
+        else {cout<< "\n" << palabra << " Es un identificador"<< endl;}
+
+    } while (*palabra);
+    return 0;
+}
