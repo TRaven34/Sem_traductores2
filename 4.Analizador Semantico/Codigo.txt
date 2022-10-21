@@ -1,0 +1,37 @@
+<<PRUEBA ERRONEA>>
+int main ( )
+{
+  int x = 10;
+  int z = 11;
+  int res;
+  long s;
+  float y = 12;
+  string w;
+  string cadena;
+  cadena = w;
+  cadena = x;
+  res = x - cadena;
+  if ( num == x )
+  {
+     cout << num << endl;
+  }
+}
+
+<<SOLUCION>>
+int main ( )
+{
+  int x = 10;
+  int z = 11;
+  int num = 12;
+  int res;
+  long s;
+  float y = 12;
+  string w = "Seminario";
+  string cadena;
+  cadena = w;
+  res = x - z;
+  if ( num == x )
+  {
+     cout << num << endl;
+  }
+}
