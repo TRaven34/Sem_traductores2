@@ -30,7 +30,7 @@ int main(int argc, char *argv[]){
 
     pila.push( TipoSimbolo::PESOS); //Entra signo de pesos que inicializa la cadena
     pila.push( 0 );
-    lexico.sigSimbolo();    //analizamos el primer simbolo de la cadena
+    lexico.sigSimbolo();//analizamos el primer simbolo de la cadena
 
     fila= pila.top();   //para la fila tomamos en cuenta en top de la pila
     columna= lexico.tipo;//para la columna tomamos en el id del siguente simbolo en la cadena
