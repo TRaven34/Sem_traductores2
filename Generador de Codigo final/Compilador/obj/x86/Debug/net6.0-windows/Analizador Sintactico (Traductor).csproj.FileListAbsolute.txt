@@ -1,0 +1,38 @@
+P:\Descargas\Analizador (Traductor)\bin\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).exe
+P:\Descargas\Analizador (Traductor)\bin\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).deps.json
+P:\Descargas\Analizador (Traductor)\bin\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).runtimeconfig.json
+P:\Descargas\Analizador (Traductor)\bin\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).dll
+P:\Descargas\Analizador (Traductor)\bin\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).pdb
+P:\Descargas\Analizador (Traductor)\obj\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).csproj.AssemblyReference.cache
+P:\Descargas\Analizador (Traductor)\obj\x86\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+P:\Descargas\Analizador (Traductor)\obj\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).csproj.ResolveComReference.cache
+P:\Descargas\Analizador (Traductor)\obj\x86\Debug\net6.0-windows\Analizador_Lexico__Traductor_.Form1.resources
+P:\Descargas\Analizador (Traductor)\obj\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).csproj.GenerateResource.cache
+P:\Descargas\Analizador (Traductor)\obj\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).GeneratedMSBuildEditorConfig.editorconfig
+P:\Descargas\Analizador (Traductor)\obj\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).AssemblyInfoInputs.cache
+P:\Descargas\Analizador (Traductor)\obj\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).AssemblyInfo.cs
+P:\Descargas\Analizador (Traductor)\obj\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).csproj.CoreCompileInputs.cache
+P:\Descargas\Analizador (Traductor)\obj\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).dll
+P:\Descargas\Analizador (Traductor)\obj\x86\Debug\net6.0-windows\refint\Analizador Sintactico (Traductor).dll
+P:\Descargas\Analizador (Traductor)\obj\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).pdb
+P:\Descargas\Analizador (Traductor)\obj\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).genruntimeconfig.cache
+P:\Descargas\Analizador (Traductor)\obj\x86\Debug\net6.0-windows\ref\Analizador Sintactico (Traductor).dll
+P:\Descargas\Analizador (Traductor)\Compilador\bin\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).exe
+P:\Descargas\Analizador (Traductor)\Compilador\bin\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).deps.json
+P:\Descargas\Analizador (Traductor)\Compilador\bin\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).runtimeconfig.json
+P:\Descargas\Analizador (Traductor)\Compilador\bin\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).dll
+P:\Descargas\Analizador (Traductor)\Compilador\bin\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).pdb
+P:\Descargas\Analizador (Traductor)\Compilador\obj\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).csproj.AssemblyReference.cache
+P:\Descargas\Analizador (Traductor)\Compilador\obj\x86\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+P:\Descargas\Analizador (Traductor)\Compilador\obj\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).csproj.ResolveComReference.cache
+P:\Descargas\Analizador (Traductor)\Compilador\obj\x86\Debug\net6.0-windows\Analizador_Lexico__Traductor_.Form1.resources
+P:\Descargas\Analizador (Traductor)\Compilador\obj\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).csproj.GenerateResource.cache
+P:\Descargas\Analizador (Traductor)\Compilador\obj\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).GeneratedMSBuildEditorConfig.editorconfig
+P:\Descargas\Analizador (Traductor)\Compilador\obj\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).AssemblyInfoInputs.cache
+P:\Descargas\Analizador (Traductor)\Compilador\obj\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).AssemblyInfo.cs
+P:\Descargas\Analizador (Traductor)\Compilador\obj\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).csproj.CoreCompileInputs.cache
+P:\Descargas\Analizador (Traductor)\Compilador\obj\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).dll
+P:\Descargas\Analizador (Traductor)\Compilador\obj\x86\Debug\net6.0-windows\refint\Analizador Sintactico (Traductor).dll
+P:\Descargas\Analizador (Traductor)\Compilador\obj\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).pdb
+P:\Descargas\Analizador (Traductor)\Compilador\obj\x86\Debug\net6.0-windows\Analizador Sintactico (Traductor).genruntimeconfig.cache
+P:\Descargas\Analizador (Traductor)\Compilador\obj\x86\Debug\net6.0-windows\ref\Analizador Sintactico (Traductor).dll
