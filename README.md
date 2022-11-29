@@ -20,38 +20,7 @@ Cada tarea es un paso para el avance del proyecto final
 Nota: Los trabajos apenas se estan subiendo con la fecha del 21-Octubre-2022.
 Aprovechando que el semestre pasado trabaje con C#, voy a implementar lo que aprendi en Visual Studio para este proyecto.
 
-# Que es un analizador Léxico?
-
-Un analizador léxico o analizador lexicográfico es la primera fase de un compilador,
-consistente en un programa que recibe como entrada el código fuente de otro
-programa y produce una salida compuesta de tokens o símbolos. Estos tokens sirven
-para una posterior etapa del proceso de traducción, siendo la entrada para el analizador
-sintáctico.
-Esta etapa está basada usualmente en una máquina de estados finitos. Esta
-máquina contiene la información de las posibles secuencias de caracteres que
-puede conformar cualquier token que sea parte del lenguaje (las instancias
-individuales de estas secuencias de caracteres son denominados lexemas). Por
-ejemplo, un token de naturaleza entera puede contener cualquier secuencia de
-caracteres numéricos.
-
-Un token léxico o simplemente token es una cadena con un significado asignado y, por lo
-tanto, identificado. Está estructurado como un par que consta de un «nombre de token» y un
-«valor de token» opcional. El nombre del token es una categoría de unidad léxica.1
-
-Los nombres
-
-de token comunes son
-● identificador: nombres que elige el programador (x, color, ARRIBA);
-● palabra clave: nombres que ya están en el lenguaje de programación (si,
-mientras, retorno);
-● separador (también conocidos como signos de puntuación): caracteres de
-puntuación y delimitadores emparejados(| }, (, ;|);
-● operador: símbolos que operan sobre argumentos y producen resultados (+, <, =);
-● literal: literales numéricos, lógicos, textuales, de referencia (verdadero, 6,02e23,
-"música");
-● comentario: línea, bloque (Depende del compilador si el compilador implementa
-comentarios como tokens, de lo contrario, se eliminará) (/* Recupera datos de
-usuario */, // debe ser negativo).
+La mayoria de la documentacion fue entregada en formato de PDF en classroom.
 
 # Imagenes finales del generador de código
 
