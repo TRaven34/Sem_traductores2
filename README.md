@@ -20,7 +20,9 @@ Cada tarea es un paso para el avance del proyecto final
 Nota: Los trabajos apenas se estan subiendo con la fecha del 21-Octubre-2022.
 Aprovechando que el semestre pasado trabaje con C#, voy a implementar lo que aprendi en Visual Studio para este proyecto.
 
+# Nota:
 La mayoria de la documentacion fue entregada en formato de PDF en classroom.
+El trabajo 3 esta dentro de la carpeta del trabajo 2.
 
 # Imagenes finales del generador de código
 
