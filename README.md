@@ -32,4 +32,4 @@ El trabajo 3 esta dentro de la carpeta del trabajo 2.
 
 ![Foto 3](https://user-images.githubusercontent.com/116375899/204607040-08eb4045-9a89-4e6c-8894-949188d42554.png)
 
-Hubo un error pequeño que nunca pude solucionar, y es que en el apartado de Operaciones la tabla salia recortada. Pienso que el origen de este error fue una actializacion de Visual Studio o del .Net con el que trabaja.
+Hubo un error pequeño que nunca pude solucionar, y es que en el apartado de Operaciones la tabla salia recortada. Pienso que el origen de este error fue una actializacion de Visual Studio o del .Net con el que trabaja. Estuvo raro como cada ejemplo diferente que usaba las tablas salian con diferentes tamaños, Visual Studio es una herramienta peculiar.
