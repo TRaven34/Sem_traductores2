@@ -52,3 +52,13 @@ puntuación y delimitadores emparejados(| }, (, ;|);
 ● comentario: línea, bloque (Depende del compilador si el compilador implementa
 comentarios como tokens, de lo contrario, se eliminará) (/* Recupera datos de
 usuario */, // debe ser negativo).
+
+# Imagenes finales del generador de código
+
+![Foto 1](https://user-images.githubusercontent.com/116375899/204606996-c4ee3bc9-c432-4cb2-99ee-0a0260c089fb.PNG)
+
+![foto 2](https://user-images.githubusercontent.com/116375899/204607021-41e2d8f8-d843-466d-bb07-5cf7fb403f94.PNG)
+
+![Foto 3](https://user-images.githubusercontent.com/116375899/204607040-08eb4045-9a89-4e6c-8894-949188d42554.png)
+
+Hubo un error pequeño que nunca pude solucionar, y es que en el apartado de Operaciones la tabla salia recortada. Pienso que el origen de este error fue una actializacion de Visual Studio o del .Net con el que trabaja.
