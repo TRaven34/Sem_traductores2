@@ -28,7 +28,7 @@ El trabajo 3 esta dentro de la carpeta del trabajo 2.
 
 ![Foto 1](https://user-images.githubusercontent.com/116375899/204606996-c4ee3bc9-c432-4cb2-99ee-0a0260c089fb.PNG)
 
-![foto 2](https://user-images.githubusercontent.com/116375899/204607021-41e2d8f8-d843-466d-bb07-5cf7fb403f94.PNG)
+![Foto 2 remake](https://user-images.githubusercontent.com/116375899/204616822-a9a6d9ec-d9a6-4f94-b554-5ffdb4e4942f.png)
 
 ![Foto 3](https://user-images.githubusercontent.com/116375899/204607040-08eb4045-9a89-4e6c-8894-949188d42554.png)
 
